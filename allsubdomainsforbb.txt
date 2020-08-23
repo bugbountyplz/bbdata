@@ -1,3 +1,0 @@
-This is the file containing all subdomains for BB Programs for H1, Bugcrowd and Private Programs. I will keep on updating this regularly.
-
-Targets Here -->  https://bugbountyplz.000webhostapp.com/alltargets.txt
